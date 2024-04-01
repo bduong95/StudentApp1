@@ -4,7 +4,7 @@ export default function StudentForm() {
             <form>
             <div>
                 <label>Name:</label>
-                <input type="text" id="name" value="Brian D" readonly></input>
+                <input type="text" id="name" value="Brian D"></input>
             </div>
             <div>
                 <label>Email:</label>
